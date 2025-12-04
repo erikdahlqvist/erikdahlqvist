@@ -1,26 +1,10 @@
-## 👋 Hi there, i'm @erikdahlqvist
+## 👋 Hi there
 
 ### About Me
-- I am a student and freelance developer from Sweden 🇸🇪
+My name is Erik Dahlkvist and I'm a student and freelance developer from Sweden. I enjoy systems programming, embedded development, and tinkering with Linux on both desktops and servers.
 
-- I am fluent in English 🇬🇧 and Swedish 🇸🇪
-
-- Currently running Fedora (Primary PC and laptop), Debian Stable (Server), and MacOS & Asahi Linux (MacBook Air M1)
-
-### Tools 🔨 and Languages 📢 I use
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title"Flutter" alt="Flutter" width="40" height="40"/>
-</div>
+### Languages I particularly like to code in
+- Rust (by far my favourite)
+- C
+- Java
+- Dart (usually with Flutter)
